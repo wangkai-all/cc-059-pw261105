@@ -1,0 +1,11 @@
+id,title,year,authors,venue,doi,topics
+P001,Graph Neural Networks for Citation Analysis,2018,Alice Chen; Bob Liu,J. Graph Mining,https://doi.org/10.1000/GNN.2018,graphs;machine learning
+P002,Scalable PageRank on Large Graphs,2019,Carol Wu; Dan Zhao,Proc. Data Systems,10.1000/pagerank-2019,graphs;ranking
+P003,Temporal Citation Networks,2020,Alice Chen; Eve Park,J. Graph Mining,10.1000/TEMPORAL-2020,graphs;temporal networks
+P004,Topic Modeling of Scholarly Records,2017,Frank Moore; Grace Kim,Digital Library Conf.,doi:10.1000/topic-model-2017,topic models;digital libraries
+P005,Graph Neural Networks for Citation Analysis,2021,Ivan Petrov; Bob Liu,Proc. Learning Systems,10.1000/GNN.2021,graphs;machine learning
+P006,Robust Entity Resolution for Bibliographic Data,2016,Grace Kim; Hank Lee,Data Quality Workshop,10.1000/entity-res-2016,record linkage;digital libraries
+P007,Citation Recommendation with Graph Embeddings,2022,Eve Park; Ivan Petrov,Proc. Learning Systems,https://doi.org/10.1000/rec-2022,recommendation;machine learning
+P008,A Survey of Bibliometric Indicators,2015,Jill Ng; Frank Moore,Scientometrics Review,10.1000/biblio-2015,bibliometrics;ranking
+P009,Deep Learning for Scholarly Document Processing,2023,Dan Zhao; Grace Kim,Proc. Learning Systems,10.1000/dl-scholarly-2023,machine learning;temporal networks
+P010,Ranking Algorithms in Citation Graphs,2024,Carol Wu; Jill Ng,J. Graph Mining,10.1000/citation-rank-2024,graphs;ranking;bibliometrics
